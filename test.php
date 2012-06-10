@@ -1,6 +1,7 @@
 <?php
 echo("test");
 /* new line
-encore
+second
+third
 */
 ?>
